@@ -1,0 +1,24 @@
+{
+  "name": "nvm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/csq121605366/nvm.git"
+  },
+  "author": "121605366@qq.com <121605366@qq.com>",
+  "license": "MIT",
+  "description": "node+vue+mongodb",
+  "bugs": {
+    "url": "https://github.com/csq121605366/nvm/issues"
+  },
+  "homepage": "https://github.com/csq121605366/nvm#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "shelljs": "^0.7.8",
+    "webpack": "^3.5.5"
+  }
+}
